@@ -1,0 +1,9 @@
+Parte 1: Vigilancia
+1. En fat_fuse.c, despues de montar el volume.
+   Siempre que no exista el archivo de log, fat_fuse_mknod
+   para crear el archivo.
+
+2. Para escribir los registros en el log es necesario llamar
+   abrir el archivo
+   a fat_fuse_log_activity que guarda en el buffer buf el
+   el registro de la actividad. 

@@ -1,0 +1,5 @@
+total 16
+-rw-rw-r-- 1 tomas tomas 1399 sep 12 16:01 informe.md
+drwxrwxr-x 5 tomas tomas 4096 sep 17 15:06 kickstart
+drwxrwxr-x 5 tomas tomas 4096 sep 17 15:25 principal
+drwxrwxr-x 2 tomas tomas 4096 sep 17 15:06 pruebas
